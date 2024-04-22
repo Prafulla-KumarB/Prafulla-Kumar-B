@@ -13,8 +13,7 @@ Hello, I'm Praful. Self taught Data Analyst and SQL enthusisast from INDIA.
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
-
+Welcome to my portfolio, where I showcase my [projects]
 ### 🛠️ Tools
 
 - Language: SQL, Python
