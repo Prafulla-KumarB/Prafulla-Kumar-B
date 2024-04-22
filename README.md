@@ -1,6 +1,6 @@
 ## 🕵️‍♂️ Introducing Myself
 
-![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/katiehuangx/katiehuangx/assets/81607668/bad4dc56-1211-41ed-99a7-1bccea77bd72)
+![Slide1](https://github.com/Prafulla-KumarB/Prafulla-Kumar-B/assets/92779688/934c6d30-6070-4ac0-a935-4bc870594e3f)
 
 Hello, I'm Praful. Self taught Data Analyst and SQL enthusisast from INDIA. 
 
