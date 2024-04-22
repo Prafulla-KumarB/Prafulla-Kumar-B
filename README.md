@@ -1,6 +1,6 @@
 ## 🕵️‍♂️ Introducing Myself
 
-![Slide1](https://github.com/Prafulla-KumarB/Prafulla-Kumar-B/assets/92779688/934c6d30-6070-4ac0-a935-4bc870594e3f)
+![Slide1](https://github.com/Prafulla-KumarB/Prafulla-KumarB/assets/92779688/78f43af0-ee04-44eb-8ae0-63cefe4aa84b)
 
 Hello, I'm Praful. Self taught Data Analyst and SQL enthusisast from INDIA. 
 
